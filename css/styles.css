@@ -1,0 +1,15 @@
+
+/*
+Bryan Sevilla
+date:9/28/2025
+assignment: styles for project 2: Photo Gallery
+*/
+
+h2 {
+  margin-top:8rem;
+}
+
+#characters {
+  border: 3px solid #ddd;
+  padding: 2rem;
+}
